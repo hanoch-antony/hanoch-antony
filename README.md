@@ -33,30 +33,7 @@ Helloooo.....! 👋 hanoch here😊....
 <h4 align="left"><b>don't worry i got you😊</b></h4>
 <br><br><br>
 
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [![Instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jxtn.x3)
-- [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kokachy_xD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.justin112@gmail.com)
-- [![Linkedin](https://img.shields.io/badge/linkedin-0088cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-kb-4846402a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Facebook](https://img.shields.io/badge/facebook%20me-3e164f?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081999828035)
 
-
- 
-<div align="left">
-<h4><b><u>if you like my works and want to motivate me😊</u></b></h4>
-<a href="https://www.buymeacoffee.com/devjustin1P" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align="center">
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=justinx3&theme=react&border=61dafb&hide_border=true" alt="justinx3" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=justinx3&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
   <br><br><br><br><br><br><br><br><br>
 </p>
 
