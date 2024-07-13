@@ -2,7 +2,7 @@
 
 
 <h2 align="left">
-Helloooo.....! 👋 justin here😊....
+Helloooo.....! 👋 hanoch here😊....
   <h3>i came here to welcome you!</h3>
   </a>
 </h2>
@@ -18,10 +18,6 @@ Helloooo.....! 👋 justin here😊....
    <br>
 <li>
 <b>focused on algorithms</b> 
-</li>
-   <br>
-<li>
-  <b>i am gonna be a hokage someday😉</b>
 </li>
    <br>
    <li>
