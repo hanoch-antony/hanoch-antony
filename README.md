@@ -9,9 +9,7 @@ Helloooo.....! 👋 hanoch here😊....
 
  
 
-<div align="center">
-<img src="https://github.com/hanoch-antony/hanoch-antony/blob/main/iimages/pp.jpg" height="250" width="250" align="right">
-  </div>
+
 <li>
  <b>currently working on small projects🌱
  </li>
