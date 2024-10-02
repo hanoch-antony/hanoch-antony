@@ -11,7 +11,7 @@ Helloooo.....! 👋 hanoch here😊....
 
 
 <li>
- <b>currently working on small projects🌱
+ <b>currently Running own Agriculture business
  </li>
    <br>
 <li>
