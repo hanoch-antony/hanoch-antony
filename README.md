@@ -3,7 +3,7 @@
 
 <h2 align="left">
 Hanoch Jose Rocky
-  <h3>i came here to welcome you!</h3>
+  <h3>Entrepreneur</h3>
   </a>
 </h2>
 
